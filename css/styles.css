@@ -746,7 +746,7 @@ form {
 
 .modal-form-chek:checked + .modal-form-chek-desk::before {
   background-color: #4d5ae5;
-  background-image: url(../images/check-mark.svg);
+  background-image: url(../images/svg/check-mark.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
